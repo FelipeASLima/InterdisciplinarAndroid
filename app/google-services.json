@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "844702104950",
+    "firebase_url": "https://carona-u.firebaseio.com",
+    "project_id": "carona-u",
+    "storage_bucket": "carona-u.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:844702104950:android:317cc4a69056617d",
+        "android_client_info": {
+          "package_name": "com.carona"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "844702104950-l9rhd8rrdjid2vm8i74jckto9t4nkdh5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.carona",
+            "certificate_hash": "546b555de259eeb068fc8eae3668ab65b36eae29"
+          }
+        },
+        {
+          "client_id": "844702104950-vi02e3surk6p0pd0f5ee041sgs7rpqvp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeqS0kylY28ViZVQ_zSngHFqEuWw2ZN8o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "844702104950-vi02e3surk6p0pd0f5ee041sgs7rpqvp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

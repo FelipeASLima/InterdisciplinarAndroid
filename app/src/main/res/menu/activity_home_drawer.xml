@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_perfil"
+            android:icon="@drawable/ic_perfil"
+            android:title="@string/menu_perfil" />
+
+        <item
+            android:id="@+id/nav_car"
+            android:icon="@drawable/ic_car"
+            android:title="@string/menu_cadas_ar" />
+
+        <item
+            android:id="@+id/nav_maps"
+            android:icon="@drawable/ic_map"
+            android:title="@string/menu_map" />
+
+        <item
+            android:id="@+id/nav_exit"
+            android:icon="@drawable/ic_exit"
+            android:title="@string/action_log_out" />
+    </group>
+
+</menu>
